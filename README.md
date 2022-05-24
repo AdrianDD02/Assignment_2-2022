@@ -1,2 +1,6 @@
-# Assignment_2-2022
-COMP1050 Assignment 2 due 1st June
+Assignment_2-2022
+Headline
+		○ Line 1
+		○ Line 2
+		○ Line 3
+		○ Line 4
